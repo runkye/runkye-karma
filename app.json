@@ -1,0 +1,19 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+    "TEST": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "name": "runkye-jornet",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
